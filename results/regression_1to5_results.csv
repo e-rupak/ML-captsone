@@ -1,0 +1,6 @@
+Algorithm,R2,RMSE,MAE
+Polynomial Regression,0.7814,2034.8219,1490.1729
+Linear Regression,0.6934,2410.0992,1742.4638
+Ridge Regression,0.6934,2410.1483,1742.4646
+Lasso Regression,0.6933,2410.2502,1742.1135
+ElasticNet,0.6933,2410.5382,1742.5057
